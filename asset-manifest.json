@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23b87f8d.chunk.css",
+    "main.js": "/static/js/main.3f08d617.chunk.js",
+    "main.js.map": "/static/js/main.3f08d617.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.912a7893.js",
+    "runtime-main.js.map": "/static/js/runtime-main.912a7893.js.map",
+    "static/css/2.e39e7a71.chunk.css": "/static/css/2.e39e7a71.chunk.css",
+    "static/js/2.b73285f8.chunk.js": "/static/js/2.b73285f8.chunk.js",
+    "static/js/2.b73285f8.chunk.js.map": "/static/js/2.b73285f8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e39e7a71.chunk.css.map": "/static/css/2.e39e7a71.chunk.css.map",
+    "static/css/main.23b87f8d.chunk.css.map": "/static/css/main.23b87f8d.chunk.css.map",
+    "static/js/2.b73285f8.chunk.js.LICENSE.txt": "/static/js/2.b73285f8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/waves-mobile.c2fda23e.svg",
+    "static/media/after-effects.49873d5e.svg": "/static/media/after-effects.49873d5e.svg",
+    "static/media/animate.a9ac7a06.svg": "/static/media/animate.a9ac7a06.svg",
+    "static/media/audition.09a54301.svg": "/static/media/audition.09a54301.svg",
+    "static/media/behance.2ded598d.svg": "/static/media/behance.2ded598d.svg",
+    "static/media/close-1.36141307.png": "/static/media/close-1.36141307.png",
+    "static/media/figma.aa414cc4.svg": "/static/media/figma.aa414cc4.svg",
+    "static/media/illustrator.94aaf877.svg": "/static/media/illustrator.94aaf877.svg",
+    "static/media/indesign.fb8c492a.svg": "/static/media/indesign.fb8c492a.svg",
+    "static/media/lightroom.e51dc076.svg": "/static/media/lightroom.e51dc076.svg",
+    "static/media/linkedin.bbcf5dde.svg": "/static/media/linkedin.bbcf5dde.svg",
+    "static/media/logo.d9159393.svg": "/static/media/logo.d9159393.svg",
+    "static/media/lunacy.4e983db3.svg": "/static/media/lunacy.4e983db3.svg",
+    "static/media/maya.197aec7a.svg": "/static/media/maya.197aec7a.svg",
+    "static/media/parul-avatar.8e117d5e.svg": "/static/media/parul-avatar.8e117d5e.svg",
+    "static/media/photoshop.10789a8e.svg": "/static/media/photoshop.10789a8e.svg",
+    "static/media/premiere-pro.1700c823.svg": "/static/media/premiere-pro.1700c823.svg",
+    "static/media/twitter.4f81bf5c.svg": "/static/media/twitter.4f81bf5c.svg",
+    "static/media/xd.7a1c6a6b.svg": "/static/media/xd.7a1c6a6b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.912a7893.js",
+    "static/css/2.e39e7a71.chunk.css",
+    "static/js/2.b73285f8.chunk.js",
+    "static/css/main.23b87f8d.chunk.css",
+    "static/js/main.3f08d617.chunk.js"
+  ]
+}
